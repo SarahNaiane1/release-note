@@ -1,33 +1,26 @@
-# Release Note Documentation
+# 📚 Documentação
 
-Bem-vindo à documentação oficial do **Release Note**! 📚
+Bem-vindo à documentação oficial do projeto Release Note!
 
-Esta documentação contém informações completas sobre o projeto, incluindo guias de instalação, uso, contribuição e referências técnicas.
+## 🚀 Começar Rápido
 
-## 📖 Conteúdo
+- [Introdução](./introducao.md) - Visão geral do projeto
+- [Instalação](./instalacao.md) - Como instalar e configurar
+- [Guia de Uso](./guia-uso.md) - Tutorial prático
+- [Configuração](./configuracao.md) - Opções de configuração avançada
+- [FAQ](./faq.md) - Perguntas frequentes
+- [Contribuindo](./contribuindo.md) - Como contribuir
 
-- **[Introdução](./introducao.md)** - Começar por aqui
-- **[Instalação](./instalacao.md)** - Como instalar o projeto
-- **[Guia de Uso](./guia-uso.md)** - Tutorial prático
-- **[Configuração](./configuracao.md)** - Opções de configuração
-- **[FAQ](./faq.md)** - Perguntas frequentes
-- **[Contribuindo](./contribuindo.md)** - Como contribuir
+## 📖 Índice Completo
 
-## 🚀 Início Rápido
+Consulte [SUMMARY.md](./SUMMARY.md) para o índice completo da documentação.
 
-Para começar rapidamente, siga os passos abaixo:
+## 🤝 Precisa de Ajuda?
 
-1. Clone o repositório
-2. Instale as dependências
-3. Configure conforme necessário
-4. Comece a usar!
-
-## 💡 Dúvidas?
-
-- Verifique a seção [FAQ](./faq.md)
 - Abra uma [issue](https://github.com/SarahNaiane1/release-note/issues)
-- Consulte a documentação completa
+- Confira as [discussões](https://github.com/SarahNaiane1/release-note/discussions)
+- Veja as [perguntas frequentes](./faq.md)
 
----
+## 📝 Licença
 
-**Última atualização:** 2026-02-27
+Este projeto está sob licença MIT.
